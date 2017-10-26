@@ -9,7 +9,7 @@ Como ayuda y complemento a este ejercicio, es recomendable leer la [Guía de Usu
 ## Preparación
 Empieza el ejercicio clonando el repositorio del proyecto. Para ello, ejecuta:
 ```
-git clone http://sing.ei.uvigo.es/dt/gitlab/dgss-1617/test-doubles.git
+git clone http://sing-group.org/dt/gitlab/dgss-1718/test-doubles.git
 ```
 
 A continuación, puedes importar el proyecto en Eclipse del mismo modo que hemos visto en ejercicios anteriores.
